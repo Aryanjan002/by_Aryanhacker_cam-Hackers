@@ -10,7 +10,7 @@
 
 # pip3 install requests
 
-#pip3 install colorama
+# pip3 install colorama
 # git clone https://github.com/Aryanjan002/by_Aryanhacker_cam-Hackers
 # cd Aryanjan002/by_Aryanhacker_cam-Hackers
 # python3 Aryan_cam.py
